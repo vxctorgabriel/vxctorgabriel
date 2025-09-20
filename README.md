@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Victor Gabriel 👋</h1>
+<h1 align="center">Olá, eu me chamo Victor Gabriel 👋</h1>
 <p align="center">
   Estudante de Ciência da Computação • Aracaju–SE • Java, Python & Estruturas de Dados
 </p>
