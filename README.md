@@ -37,3 +37,4 @@
 ### 📫 Contato
 - Email: **victor.galves@souunit.com.br**
 - Email: **victorvgas@hotmail.com**
+- LinkedIn: **[linkedin.com/in/victor-g-santos-b97a422b5](https://www.linkedin.com/in/victor-g-santos-b97a422b5)**
