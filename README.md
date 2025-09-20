@@ -30,8 +30,10 @@
 
 ### 📈 Estatísticas
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vxctorgabriel&show_icons=true&hide_title=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=vxctorgabriel" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vxctorgabriel&show_icons=true&hide_title=true"
+     media="(prefers-color-scheme: dark)"/>
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=vxctorgabriel"
+     media="(prefers-color-scheme: dark)"/>
 </p>
 
 ### 📫 Contato
