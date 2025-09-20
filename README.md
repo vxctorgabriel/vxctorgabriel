@@ -2,7 +2,7 @@
 
 - 🔭 Hoje eu não estou trabalhando com nada na área
 - ☕ Estudando Java!
-- 🐍 Python intermediário. ->> Selenium, Pandas, [...]
+- 🐍 Python intermediário. 
 - 📫 Contate-me no email: victor.galves@souunit.com.br
 - 
 
