@@ -25,8 +25,8 @@
 ### 📈 Estatísticas
 <p>
   <!-- Substitua SEU-USUARIO pelo seu @ do GitHub -->
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&hide_title=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vxctorgabriel&show_icons=true&hide_title=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=vxctorgabriel" />
 </p>
 
 ### 📫 Contato
