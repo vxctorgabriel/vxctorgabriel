@@ -30,7 +30,6 @@
 - **Cálculo Numérico em Python** — Métodos de Bisseção, Secantes e Newton.  
   _Gráficos de erro por iteração e precisão de 1e-5._
 
-> Dica: fixe estes repositórios no topo do seu perfil.
 
 ### 📈 Estatísticas
 <p>
@@ -40,7 +39,7 @@
 
 ### 📫 Contato
 - Email: **victor.galves@souunit.com.br**
-- LinkedIn: **[linkedin.com/in/SEU-LINK](https://linkedin.com/in/SEU-LINK)**
+- LinkedIn: **[www.linkedin.com/in/victor-g-santos-b97a422b5**
 
 ---
 
