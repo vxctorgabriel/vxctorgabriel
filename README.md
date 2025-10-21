@@ -1,5 +1,5 @@
 <h1 align="center">Olá, me chamo Victor Gabriel</h1>
-<p align="center">Ciência da Computação • Aracaju–SE • Java | Python | Estruturas de Dados</p>
+<p align="center">Ciência da Computação • Aracaju–SE • Java | Python |</p>
 
 ---
 
