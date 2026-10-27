@@ -7,8 +7,7 @@
 
 ### 📌 Sobre mim
 
-- 🎯 **Objetivo:** Buscando oportunidades de **Estágio / Trainee em TI**.
-- 💡 **Foco Atual:** Práticas de **Vibe Coding**, prototipagem rápida e desenvolvimento ágil impulsionado por IA.
+- 💡 **Foco Atual:** Práticas de **LLM**, prototipagem rápida e desenvolvimento ágil impulsionado por controle de contexto,parâmetros e RAG.
 - ⚡ **Domínios:** Python, Estruturas de Dados, Inteligência Artificial aplicada e fluxos de trabalho modernos de software.
 
 ---
