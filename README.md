@@ -1,28 +1,44 @@
-<h1 align="center">Olá, me chamo Victor Gabriel</h1>
-<p align="center">Ciência da Computação • Aracaju–SE • Java | Python |</p>
+# Victor Gabriel
+
+> Ciência da Computação • Aracaju–SE  
+> **Focado em Vibe Coding & Desenvolvimento Assistido por IA**
 
 ---
 
-### Agora
-- Buscando estágio/trainee em TI
-- Estudando Java (POO, coleções), Python (algoritmos/numérico) e E.D. (listas, filas, pilhas, árvores)
+### 📌 Sobre mim
 
-### Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,git,github,docker,html,css,js,react,figma&perline=10" />
-</p>
+- 🎯 **Objetivo:** Buscando oportunidades de **Estágio / Trainee em TI**.
+- 💡 **Foco Atual:** Práticas de **Vibe Coding**, prototipagem rápida e desenvolvimento ágil impulsionado por IA.
+- ⚡ **Domínios:** Python, Estruturas de Dados, Inteligência Artificial aplicada e fluxos de trabalho modernos de software.
 
-### Repositórios em destaque
-- **Estruturas de Dados (Java)** — listas, pilha, fila, árvores, busca e ordenação.
-- **Exercícios de Java (POO)** — classes, herança, interfaces e exceções.
+---
 
-### Estatísticas
-<p align="center">
+### 🛠️ Tech Stack & Ferramentas
+
+![Tech Stack](https://skillicons.dev/icons?i=python,git,github,vscode,html,css,js,react,figma&perline=9)
+
+*Ferramentas de IA & Workflow:* Prompt Engineering • AI Coding Assistants (Cursor / Copilot) • Prototipagem Ágil
+
+---
+
+### 📂 Repositórios em Destaque
+
+* 🐍 **[Estruturas de Dados & Algoritmos](#)** — Implementações em Python (listas, pilhas, filas, árvores e busca/ordenação).
+* 🤖 **[Projetos & Experimentos com IA](#)** — Aplicação de técnicas de Vibe Coding para desenvolvimento rápido e automação.
+
+---
+
+### 📊 Estatísticas
+
+<p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=vxctorgabriel&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vxctorgabriel&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-### Contato
-- Email acadêmico: victor.galves@souunit.com.br  
-- Email pessoal: victorvgas@hotmail.com  
-- LinkedIn: https://www.linkedin.com/in/victor-g-santos-b97a422b5
+---
+
+### 📬 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-g-santos-b97a422b5)
+[![E-mail Pessoal](https://img.shields.io/badge/Email_Pessoal-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:victorvgas@hotmail.com)
+[![E-mail Acadêmico](https://img.shields.io/badge/Email_Acadêmico-005A9C?style=flat-square&logo=academic-pages&logoColor=white)](mailto:victor.galves@souunit.com.br)
