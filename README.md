@@ -34,7 +34,6 @@ Brincando com LLMs, RAG e protótipos que saem do papel no mesmo dia. Nas horas 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vxctorgabriel/vxctorgabriel/output/snake-dark.svg" />
   
-  <img alt="cobrinha comendo meus commits" src="https://raw.githubusercontent.com/vxctorgabriel/vxctorgabriel/output/snake.svg" />
 </picture>
 
 </div>
