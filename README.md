@@ -21,9 +21,8 @@ Experimentos e automações com modelos de linguagem.
 **IA:** Claude, ChatGPT, Cursor, GitHub Copilot
 
 ### Atividade
-
 <p align="center">
-  <img src="assets/rede-neural.svg" width="100%" alt="Rede neural animada" />
+  <img src="rede-neural.svg" width="100%" alt="Rede neural animada" />
 </p>
 
 ### Contato
