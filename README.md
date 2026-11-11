@@ -20,7 +20,7 @@ Experimentos e automações com modelos de linguagem.
 **Frameworks e ambiente:** React, Git, GitHub, VS Code, Figma  
 **IA:** Claude, ChatGPT, Cursor, GitHub Copilot
 
-### Atividade
+
 <p align="center">
   <img src="rede-neural.svg" width="100%" alt="Rede neural animada" />
 </p>
