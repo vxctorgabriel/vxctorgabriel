@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=E+a%C3%AD%2C+eu+sou+o+Victor+%F0%9F%91%8B;vibe+coder+direto+de+Aracaju+%F0%9F%8C%B4;IA+no+volante%2C+eu+no+controle;bora+construir+algo%3F" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=E+a%C3%AD%2C+eu+sou+o+Victor+%F0%9F%91%8B;dev+direto+de+Aracaju+%F0%9F%8C%B4;IA+no+volante%2C+eu+no+controle;bora+construir+algo%3F" />
 
 Estudante de Ciência da Computação que curte transformar ideia solta em projeto rodando, rápido. Uso IA como parceira de código, mas sem terceirizar o cérebro. 🧠
 
