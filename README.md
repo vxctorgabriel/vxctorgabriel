@@ -8,7 +8,7 @@ Estudante de Ciência da Computação que curte transformar ideia solta em proje
 
 ## 🌊 No momento
 
-Brincando com LLMs, RAG e protótipos que saem do papel no mesmo dia. Nas horas vagas, reforçando a base com estruturas de dados, porque vibe boa também precisa de fundamento.
+Brincando com LLMs, RAG e protótipos que saem do papel no mesmo dia. Nas horas vagas, reforçando a base com estruturas de dados, porque velocidade sem fundamento não vai muito longe.
 
 ## 🔥 Dá uma olhada
 
@@ -18,6 +18,12 @@ Brincando com LLMs, RAG e protótipos que saem do papel no mesmo dia. Nas horas 
 ## 🧰 Meu kit
 
 <img src="https://skillicons.dev/icons?i=python,js,react,html,css,git,github,vscode,figma" />
+
+<img height="48" alt="Claude" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/claude-color.png" />&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/openai.png" />
+  <img height="48" alt="ChatGPT" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/openai.png" />
+</picture>
 
 ## 📈 Ritmo
 
