@@ -22,7 +22,9 @@ Experimentos e automações com modelos de linguagem.
 
 ### Atividade
 
-<img src="https://streak-stats.demolab.com?user=vxctorgabriel&locale=pt_BR&hide_border=true&background=00000000&ring=8B949E&fire=8B949E&currStreakNum=8B949E&sideNums=8B949E&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E&stroke=8B949E" />
+<p align="center">
+  <img src="assets/rede-neural.svg" width="100%" alt="Rede neural animada" />
+</p>
 
 ### Contato
 
