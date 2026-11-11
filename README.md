@@ -1,45 +1,29 @@
-<div align="center">
+# Victor Gabriel
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=E+a%C3%AD%2C+eu+sou+o+Victor+%F0%9F%91%8B;dev+direto+de+Aracaju+%F0%9F%8C%B4;IA+no+volante%2C+eu+no+controle;bora+construir+algo%3F" />
+Estudante de Ciência da Computação em Aracaju, SE. Desenvolvo com IA como ferramenta de trabalho, não como atalho: uso modelos de linguagem para acelerar a construção, mantendo o domínio sobre o que está sendo construído.
 
-Estudante de Ciência da Computação que curte transformar ideia solta em projeto rodando, rápido. Uso IA como parceira de código, mas sem terceirizar o cérebro. 🧠
+### Atualmente
 
-</div>
+Trabalhando com LLMs, RAG e engenharia de contexto, com foco em prototipagem rápida de ideias. Em paralelo, aprofundo a base em estruturas de dados e algoritmos, porque velocidade sem fundamento não vai muito longe.
 
-## 🌊 No momento
+### Projetos
 
-Brincando com LLMs, RAG e protótipos que saem do papel no mesmo dia. Nas horas vagas, reforçando a base com estruturas de dados, porque velocidade sem fundamento não vai muito longe.
+**[Estruturas de Dados & Algoritmos](#)**
+Listas, pilhas, filas, árvores, busca e ordenação implementadas do zero em Python.
 
-## 🔥 Dá uma olhada
+**[Laboratório de IA](#)**
+Experimentos e automações com modelos de linguagem.
 
-🐍 [**Estruturas de Dados**](#) · o clássico, feito na mão em Python  
-🤖 [**Laboratório de IA**](#) · experimentos, automações e umas ideias meio doidas
+### Ferramentas
 
-## 🧰 Meu kit
+**Linguagens:** Python, JavaScript, HTML, CSS  
+**Frameworks e ambiente:** React, Git, GitHub, VS Code, Figma  
+**IA:** Claude, ChatGPT, Cursor, GitHub Copilot
 
-<img src="https://skillicons.dev/icons?i=python,js,react,html,css,git,github,vscode,figma" />
+### Atividade
 
-<img height="48" alt="Claude" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/claude-color.png" />&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/openai.png" />
-  <img height="48" alt="ChatGPT" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/openai.png" />
-</picture>
+<img src="https://streak-stats.demolab.com?user=vxctorgabriel&locale=pt_BR&hide_border=true&background=00000000&ring=8B949E&fire=8B949E&currStreakNum=8B949E&sideNums=8B949E&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E&stroke=8B949E" />
 
-## 📈 Ritmo
+### Contato
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=vxctorgabriel&theme=tokyonight&hide_border=true&locale=pt_BR" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vxctorgabriel/vxctorgabriel/output/snake-dark.svg" />
-  
-</picture>
-
-</div>
-
-## 💬 Chega mais
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-g-santos-b97a422b5)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorvgas@hotmail.com)
-[![Unit](https://img.shields.io/badge/Unit-005A9C?style=for-the-badge&logo=googlescholar&logoColor=white)](mailto:victor.galves@souunit.com.br)
+[LinkedIn](https://www.linkedin.com/in/victor-g-santos-b97a422b5) · [victorvgas@hotmail.com](mailto:victorvgas@hotmail.com) · [victor.galves@souunit.com.br](mailto:victor.galves@souunit.com.br)
