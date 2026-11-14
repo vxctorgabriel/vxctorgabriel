@@ -4,7 +4,7 @@
   <img src="rede-neural.svg" width="100%" alt="Rede neural animada" />
 </p>
 
-Desenvolvedor de software em Aracaju, SE. Gosto de transformar problemas em soluções simples e funcionais, com código limpo e boas bases de lógica e estruturas de dados.
+Desenvolvedor de software de Aracaju, SE. Gosto de transformar problemas em soluções simples e funcionais, com código limpo e boas bases de lógica e estruturas de dados.
 
 ### Atualmente
 
